@@ -79,17 +79,17 @@
         "servant-purescript": "servant-purescript"
       },
       "locked": {
-        "lastModified": 1653386980,
-        "narHash": "sha256-zCZQIgq3XQOfEu294cinDcRXh4umPQX5zugab38sfxQ=",
-        "owner": "mlabs-haskell",
+        "lastModified": 1653468167,
+        "narHash": "sha256-Rf9v97bfPWEaCeAaI84LlXH6Yv5d2fZEDcYVfyKMOLQ=",
+        "owner": "CardaxDEX",
         "repo": "bot-plutus-interface",
-        "rev": "d4b2e3ac0cbb0545416bc4f45670bc1f8230f893",
+        "rev": "fe025d74358518706b43bb4ab33406e4456f8688",
         "type": "github"
       },
       "original": {
-        "owner": "mlabs-haskell",
+        "owner": "CardaxDEX",
+        "ref": "saizan/hacked-budget",
         "repo": "bot-plutus-interface",
-        "rev": "d4b2e3ac0cbb0545416bc4f45670bc1f8230f893",
         "type": "github"
       }
     },

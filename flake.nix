@@ -11,7 +11,7 @@
       flake = false;
     };
     bot-plutus-interface.url =
-      "github:mlabs-haskell/bot-plutus-interface?rev=d4b2e3ac0cbb0545416bc4f45670bc1f8230f893";
+      "github:CardaxDEX/bot-plutus-interface?ref=saizan/hacked-budget";
   };
 
   outputs =
