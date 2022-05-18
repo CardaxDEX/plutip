@@ -108,7 +108,7 @@ runContract cEnv bpiWallet contract = do
         , pcTipPollingInterval = 1_000_000
         , pcPort = 9080
         , pcEnableTxEndpoint = False
-        , pcCollectStats = True
+        , pcCollectStats = False
         }
 
     runContract' :: ContractEnvironment w -> m (ExecutionResult w e a)
