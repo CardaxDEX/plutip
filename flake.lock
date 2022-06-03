@@ -79,16 +79,16 @@
         "servant-purescript": "servant-purescript"
       },
       "locked": {
-        "lastModified": 1653308978,
-        "narHash": "sha256-KoJH4d/8V666P3RX8h0GBMVUNDI4cNNrYKT2pOECiAs=",
+        "lastModified": 1654253565,
+        "narHash": "sha256-m7w5zR5vfCcxqOuiXfFQwXSguqqhP53yxPugg4ZGWW4=",
         "owner": "CardaxDEX",
         "repo": "bot-plutus-interface",
-        "rev": "20f9577f5a5dd4959d65d7868189fd5578628e4b",
+        "rev": "c5f6b60e447e17fb4a5e918859e303e80c2bdec0",
         "type": "github"
       },
       "original": {
         "owner": "CardaxDEX",
-        "ref": "saizan/hacked-budget",
+        "ref": "saizan/cardax-tip",
         "repo": "bot-plutus-interface",
         "type": "github"
       }

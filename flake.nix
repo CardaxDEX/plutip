@@ -11,7 +11,7 @@
       flake = false;
     };
     bot-plutus-interface.url =
-      "github:CardaxDEX/bot-plutus-interface?ref=saizan/hacked-budget";
+      "github:CardaxDEX/bot-plutus-interface?ref=saizan/cardax-tip";
   };
 
   outputs =
